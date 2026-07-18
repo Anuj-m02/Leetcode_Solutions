@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0636-exclusive-time-of-functions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [1109-corporate-flight-bookings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1109-corporate-flight-bookings) |
+| [2381-shifting-letters-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2381-shifting-letters-ii) |
 | [3895-count-digit-appearances](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 ## Math
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1446-consecutive-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
+| [2381-shifting-letters-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2381-shifting-letters-ii) |
 ## Stack
 |  |
 | ------- |
@@ -23,4 +25,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1109-corporate-flight-bookings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1109-corporate-flight-bookings) |
+| [2381-shifting-letters-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2381-shifting-letters-ii) |
 <!---LeetCode Topics End-->
