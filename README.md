@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3895-count-digit-appearances](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 ## Math
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Greedy
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-process-restricted-friend-requests](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2076-process-restricted-friend-requests) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3887-incremental-even-weighted-cycle-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3887-incremental-even-weighted-cycle-queries) |
 ## Dynamic Programming
 |  |
@@ -105,5 +108,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2076-process-restricted-friend-requests](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2076-process-restricted-friend-requests) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3887-incremental-even-weighted-cycle-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3887-incremental-even-weighted-cycle-queries) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
