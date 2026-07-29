@@ -1,65 +1,66 @@
-from collections import defaultdict
+from collections import defaultdict , deque
 import heapq
-from typing import List
-
+from functools import lru_cache
 
 class Solution:
+    def findMaxPathScore(self, edges: List[List[int]], online: List[bool], k: int) -> int:
+        
+        ans = -1
+        n = len(online)
+        graph = defaultdict(list)
 
-  def findMaxPathScore(
-      self, edges: List[List[int]], online: List[bool], k: int
-  ) -> int:
+        low = 0 
+        high = -1
 
-    n = len(online)
-    graph = defaultdict(list)
+        def check(mid) :
 
-    low = float("inf")
-    high = -1
+            # curr_cost , curr_node
+            heap = [(0 , 0 )]
+            dist = [float("inf")]*(n)
+            dist[0] = 0
 
-    # Filter offline nodes upfront
-    for u, v, cost in edges:
-      if online[u] and online[v]:
-        graph[u].append((v, cost))
-        low = min(low, cost)
-        high = max(high, cost)
+            while heap :
+                curr_cost , curr_node = heapq.heappop(heap)
 
-    # Edge case: if low didn't change, no valid edges between online nodes
-    if low == float("inf"):
-      return -1
+                if curr_cost > dist[curr_node] :
+                    continue
 
-    def check(mid):
-      # curr_cost , curr_node
-      heap = [(0, 0)]
-      dist = [float("inf")] * n  # FIXED: initialize with infinity
-      dist[0] = 0
 
-      while heap:
-        curr_cost, curr_node = heapq.heappop(heap)
+                if curr_node == n-1 and curr_cost <= k :
+                    return True
 
-        if curr_cost > dist[curr_node]:
-          continue
+                for neighbour , cost in graph[curr_node] :
+                    if online[neighbour] :
+                        
+                        if cost >= mid :
 
-        if curr_node == n - 1:
-          return True
+                            new_cost , new_node = curr_cost + cost , neighbour
 
-        for neighbour, cost in graph[curr_node]:
-          if cost >= mid:
-            new_cost = curr_cost + cost
+                            if new_cost <= k and new_cost < dist[new_node]:
+                                heapq.heappush(heap , (new_cost , new_node ))
+                                dist[new_node] = new_cost
+            
+            return False
 
-            if new_cost <= k and new_cost < dist[neighbour]:
-              dist[neighbour] = new_cost
-              heapq.heappush(heap, (new_cost, neighbour))
+        for u , v , cost in edges:
+            graph[u].append((v,cost))
+            high = max(high , cost)
+        
+        # start from 0th node 
+        # (curr_cost , curr_node , min_edge_val)
+        heap = [(0 , 0 , float("inf"))]
 
-      return False
 
-    ans = -1
+        while low <= high :
+            mid = (low+high)//2
 
-    while low <= high:
-      mid = (low + high) // 2
+            if check(mid) :
+                low = mid+1
+                ans = mid
+            else :
+                high = mid-1
+        
+        return ans
 
-      if check(mid):
-        low = mid + 1
-        ans = mid
-      else:
-        high = mid - 1
+        
 
-    return ans
