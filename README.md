@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
@@ -129,12 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3241-time-taken-to-mark-all-nodes) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Union-Find
