@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [1109-corporate-flight-bookings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1791-find-center-of-star-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1791-find-center-of-star-graph) |
+| [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2076-process-restricted-friend-requests](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2076-process-restricted-friend-requests) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
@@ -217,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
 <!---LeetCode Topics End-->
