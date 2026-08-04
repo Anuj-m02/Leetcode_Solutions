@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2467-most-profitable-path-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
@@ -158,12 +162,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
