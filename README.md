@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3493-properties-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Matrix
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -191,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
