@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3895-count-digit-appearances](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 ## String
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3493-properties-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Matrix
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -253,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
+## Number Theory
+|  |
+| ------- |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 <!---LeetCode Topics End-->
