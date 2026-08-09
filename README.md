@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2381-shifting-letters-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2381-shifting-letters-ii) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Stack
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
@@ -272,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
+## Trie
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
