@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3895-count-digit-appearances](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0474-ones-and-zeroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0956-tallest-billboard](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0956-tallest-billboard) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -326,4 +328,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0956-tallest-billboard](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0956-tallest-billboard) |
+## Minimax
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 <!---LeetCode Topics End-->
