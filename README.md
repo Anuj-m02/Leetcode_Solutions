@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-tallest-billboard](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0956-tallest-billboard) |
 | [1109-corporate-flight-bookings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1109-corporate-flight-bookings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1109-corporate-flight-bookings) |
+| [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2381-shifting-letters-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2381-shifting-letters-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0956-tallest-billboard](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0956-tallest-billboard) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
