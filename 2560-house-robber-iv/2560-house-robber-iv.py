@@ -10,16 +10,22 @@ class Solution:
         low , high = 0 , max(nums)
 
         def check(mid) :
-            cnt = 0
-            indx = 0 
-            while indx < n :
+            @lru_cache(None)
+            def dp(indx) :
+                if indx >= n :
+                    return 0
+                
+                not_pick = dp(indx+1)
+
+                rob = 0
                 if nums[indx] <= mid :
-                    cnt += 1
-                    indx += 2
-                else :
-                    indx += 1
+                    rob = 1 + dp(indx+2)
+                
+                return max(rob , not_pick)
             
-            return cnt >= k
+            return dp(0) >= k
+
+
 
 
         ans = -1
