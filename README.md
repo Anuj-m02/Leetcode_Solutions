@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
+| [0546-remove-boxes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0546-remove-boxes) |
 | [0636-exclusive-time-of-functions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
 | [0956-tallest-billboard](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0956-tallest-billboard) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0474-ones-and-zeroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
+| [0546-remove-boxes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0546-remove-boxes) |
 | [0956-tallest-billboard](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0956-tallest-billboard) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0546-remove-boxes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0546-remove-boxes) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 ## Enumeration
 |  |
