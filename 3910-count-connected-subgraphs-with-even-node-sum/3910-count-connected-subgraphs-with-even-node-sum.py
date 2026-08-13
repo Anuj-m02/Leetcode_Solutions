@@ -145,13 +145,74 @@
 #         return ans
 
 from collections import defaultdict, deque, Counter
-import heapq
+# import heapq
+# from functools import lru_cache
+# from itertools import combinations
+
+
+# class Solution:
+#     def evenSumSubgraphs(self, nums: list[int], edges: list[list[int]]) -> int:
+
+#         n = len(nums)
+
+#         graph = defaultdict(list)
+
+#         for u, v in edges:
+#             graph[u].append(v)
+#             graph[v].append(u)
+
+#         ans = 0
+
+#         nodes = list(range(n))
+
+#         for r in range(1, n + 1):
+
+#             for subset in combinations(nodes, r):
+
+#                 # ------------------------------------------------
+#                 # Check sum
+#                 # ------------------------------------------------
+
+#                 total = 0
+
+#                 for node in subset:
+#                     total += nums[node]
+
+#                 if total % 2 != 0:
+#                     continue
+
+#                 # ------------------------------------------------
+#                 # Check connectivity of induced subgraph
+#                 # ------------------------------------------------
+
+#                 selected = set(subset)
+
+#                 q = deque([subset[0]])
+#                 visited = {subset[0]}
+
+#                 while q:
+
+#                     node = q.popleft()
+
+#                     for nei in graph[node]:
+
+#                         if nei in selected and nei not in visited:
+#                             visited.add(nei)
+#                             q.append(nei)
+
+#                 if len(visited) == len(subset):
+#                     ans += 1
+
+#         return ans
+
+
+from collections import defaultdict, deque
 from functools import lru_cache
-from itertools import combinations
+from typing import List
 
 
 class Solution:
-    def evenSumSubgraphs(self, nums: list[int], edges: list[list[int]]) -> int:
+    def evenSumSubgraphs(self, nums: List[int], edges: List[List[int]]) -> int:
 
         n = len(nums)
 
@@ -161,46 +222,53 @@ class Solution:
             graph[u].append(v)
             graph[v].append(u)
 
-        ans = 0
+        def is_connected(selected):
 
-        nodes = list(range(n))
+            if not selected:
+                return False
 
-        for r in range(1, n + 1):
+            start = next(iter(selected))
 
-            for subset in combinations(nodes, r):
+            q = deque([start])
+            visited = {start}
 
-                # ------------------------------------------------
-                # Check sum
-                # ------------------------------------------------
+            while q:
+                node = q.popleft()
 
-                total = 0
+                for nei in graph[node]:
 
-                for node in subset:
-                    total += nums[node]
+                    if nei in selected and nei not in visited:
+                        visited.add(nei)
+                        q.append(nei)
 
-                if total % 2 != 0:
-                    continue
+            return len(visited) == len(selected)
 
-                # ------------------------------------------------
-                # Check connectivity of induced subgraph
-                # ------------------------------------------------
+        @lru_cache(None)
+        def dp(indx, total, selected):
 
-                selected = set(subset)
+            if indx == n:
 
-                q = deque([subset[0]])
-                visited = {subset[0]}
+                if total % 2 == 0 and is_connected(selected):
+                    return 1
 
-                while q:
+                return 0
 
-                    node = q.popleft()
+            # Don't pick indx
+            ans = dp(
+                indx + 1,
+                total,
+                selected
+            )
 
-                    for nei in graph[node]:
+            # Pick indx
+            new_selected = selected | frozenset([indx])
 
-                        if nei in selected and nei not in visited:
-                            visited.add(nei)
-                            q.append(nei)
+            ans += dp(
+                indx + 1,
+                total + nums[indx],
+                new_selected
+            )
 
-                if len(visited) == len(subset):
-                    ans += 1
+            return ans
 
-        return ans
+        return dp(0, 0, frozenset())
