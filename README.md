@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
 | [0956-tallest-billboard](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0956-tallest-billboard) |
+| [0975-odd-even-jump](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0975-odd-even-jump) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1109-corporate-flight-bookings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1109-corporate-flight-bookings) |
 | [1139-largest-1-bordered-square](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1139-largest-1-bordered-square) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0636-exclusive-time-of-functions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0636-exclusive-time-of-functions) |
+| [0975-odd-even-jump](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0975-odd-even-jump) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0975-odd-even-jump](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0975-odd-even-jump) |
 | [1187-make-array-strictly-increasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0546-remove-boxes) |
 | [0913-cat-and-mouse](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0913-cat-and-mouse) |
 | [0956-tallest-billboard](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0956-tallest-billboard) |
+| [0975-odd-even-jump](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0975-odd-even-jump) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1139-largest-1-bordered-square](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1139-largest-1-bordered-square) |
 | [1187-make-array-strictly-increasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1187-make-array-strictly-increasing) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0975-odd-even-jump](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0975-odd-even-jump) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 ## Memoization
 |  |
@@ -416,4 +421,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1187-make-array-strictly-increasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1187-make-array-strictly-increasing) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0975-odd-even-jump](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0975-odd-even-jump) |
 <!---LeetCode Topics End-->
