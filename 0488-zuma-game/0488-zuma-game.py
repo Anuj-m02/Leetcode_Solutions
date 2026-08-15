@@ -39,11 +39,11 @@ class Solution:
             for i in range(len(curr_board)):
                 for j in range(len(curr_hand)) :
 
-                    # skip duplicate
-                    if j > 0 and curr_hand[j] == curr_hand[j-1] :
-                        continue
-                    if i > 0 and curr_board[i-1] == curr_hand[j] :
-                        continue
+                    # # skip duplicate
+                    # if j > 0 and curr_hand[j] == curr_hand[j-1] :
+                    #     continue
+                    # if i > 0 and curr_board[i-1] == curr_hand[j] :
+                    #     continue
                     
                     worthTrying = False
 
