@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-find-all-good-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1397-find-all-good-strings) |
 | [1406-stone-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1510-stone-game-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1537-get-the-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1537-get-the-maximum-score) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Two Pointers
@@ -496,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1686-stone-game-vi) |
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Longest Increasing Subsequence
@@ -536,5 +541,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [1510-stone-game-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
