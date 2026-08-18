@@ -173,7 +173,14 @@ class Solution:
             for node in range(1, n + 1):
                 if node not in taken:
                     # Check if all dependencies are already taken
-                    if all(parent in taken for parent in range(1, n + 1) if node in graph[parent]):
+                    all_prereqs_taken = True
+                    for parent in range(1, n + 1):
+                        if node in graph[parent]:
+                            if parent not in taken:
+                                all_prereqs_taken = False
+                                break
+                    
+                    if all_prereqs_taken:
                         available.append(node)
 
             # Option 1: If available courses <= k, take all in current sem
