@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2560-house-robber-iv) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [2751-robot-collisions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2826-sorting-three-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2826-sorting-three-groups) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0975-odd-even-jump](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0975-odd-even-jump) |
 | [1124-longest-well-performing-interval](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1124-longest-well-performing-interval) |
+| [2751-robot-collisions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2751-robot-collisions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3812-minimum-edge-toggles-on-a-tree) |
@@ -554,4 +557,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+## Simulation
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
