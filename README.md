@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1306-jump-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
 | [1386-cinema-seat-allocation](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1537-get-the-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1537-get-the-maximum-score) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0685-redundant-connection-ii) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
 | [0968-binary-tree-cameras](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0968-binary-tree-cameras) |
+| [1306-jump-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0488-zuma-game) |
 | [0685-redundant-connection-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0685-redundant-connection-ii) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
+| [1306-jump-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
