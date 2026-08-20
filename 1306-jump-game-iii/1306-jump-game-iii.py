@@ -9,7 +9,7 @@
 #         n = len(arr)
 #         visited = set()        
 
-#         @lru_cache(maxsize=None)
+#         # @lru_cache(maxsize=None)
 #         def dp(indx) :
 
 #             if arr[indx] == 0 :
@@ -18,10 +18,12 @@
 #             if indx in visited :
 #                 return False
             
+#             visited.add(indx)
+            
 #             ans = False
 #             op1 , op2 = min(indx + arr[indx] , n-1) , max(indx - arr[indx] , 0)
-#             visited.add(op1)
-#             visited.add(op2)
+#             # visited.add(op1)
+#             # visited.add(op2)
 
 #             if dp(op1) or dp(op2) :
 #                 return True
