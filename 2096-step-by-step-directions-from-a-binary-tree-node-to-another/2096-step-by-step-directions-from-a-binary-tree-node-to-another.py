@@ -54,4 +54,48 @@ class Solution:
                 vis.add(parent_map[node])
                 queue.append((parent_map[node] , curr_path + "U"))
         
-    
+# class Solution:
+#     def getDirections(self, root: Optional[TreeNode],
+#                       startValue: int,
+#                       destValue: int) -> str:
+
+#         def find_path(node, target, path):
+#             if not node:
+#                 return False
+
+#             if node.val == target:
+#                 return True
+
+#             path.append("L")
+#             if find_path(node.left, target, path):
+#                 return True
+#             path.pop()
+
+#             path.append("R")
+#             if find_path(node.right, target, path):
+#                 return True
+#             path.pop()
+
+#             return False
+
+#         path_start = []
+#         path_dest = []
+
+#         find_path(root, startValue, path_start)
+#         find_path(root, destValue, path_dest)
+
+#         i = 0
+
+#         # Find common path from root
+#         while (i < len(path_start) and
+#                i < len(path_dest) and
+#                path_start[i] == path_dest[i]):
+#             i += 1
+
+#         # From start node, go UP to the LCA
+#         result = "U" * (len(path_start) - i)
+
+#         # From LCA, follow path to destination
+#         result += "".join(path_dest[i:])
+
+#         return result
