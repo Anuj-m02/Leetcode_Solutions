@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3686-number-of-stable-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3686-number-of-stable-subsequences) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3710-maximum-partition-factor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3710-maximum-partition-factor) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3895-count-digit-appearances](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
 | [3928-minimum-cost-to-buy-apples-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3928-minimum-cost-to-buy-apples-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
 ## Queue
 |  |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3686-number-of-stable-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3686-number-of-stable-subsequences) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3877-minimum-removals-to-achieve-target-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Depth-First Search
 |  |
