@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3895-count-digit-appearances](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2560-house-robber-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2560-house-robber-iv) |
 | [2826-sorting-three-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2826-sorting-three-groups) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1494-parallel-courses-ii) |
 | [2741-special-permutations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2741-special-permutations) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -528,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Design
 |  |
@@ -674,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
