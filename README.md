@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1987-number-of-unique-good-subsequences) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2381-shifting-letters-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2381-shifting-letters-ii) |
 | [2801-count-stepping-numbers-in-range](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2801-count-stepping-numbers-in-range) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1306-jump-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## DP on Trees
 |  |
 | ------- |
@@ -660,9 +664,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
