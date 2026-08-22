@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3493-properties-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3493-properties-graph) |
 | [3523-make-array-non-decreasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3523-make-array-non-decreasing) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3895-count-digit-appearances](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
 | [2076-process-restricted-friend-requests](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2076-process-restricted-friend-requests) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 | [3493-properties-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3493-properties-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 ## Design
 |  |
 | ------- |
@@ -600,10 +605,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -703,4 +710,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0146-lru-cache) |
+## Least Common Multiple
+|  |
+| ------- |
+| [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 <!---LeetCode Topics End-->
