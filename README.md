@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0975-odd-even-jump](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0975-odd-even-jump) |
 | [1187-make-array-strictly-increasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1537-get-the-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1537-get-the-maximum-score) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -742,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -759,8 +762,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0148-sort-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
