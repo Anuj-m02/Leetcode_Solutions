@@ -4,6 +4,7 @@ class Solution:
         n , m = len(baseCosts) , len(toppingCosts)
         mini = float("inf")
 
+        @lru_cache(maxsize=None)
         def dp(indx , curr_cost) :
             nonlocal mini
 
