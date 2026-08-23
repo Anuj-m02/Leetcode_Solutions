@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0456-132-pattern](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0456-132-pattern) |
 | [0488-zuma-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0488-zuma-game) |
 | [0636-exclusive-time-of-functions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0636-exclusive-time-of-functions) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1537-get-the-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1537-get-the-maximum-score) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [0234-palindrome-linked-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 ## Doubly-Linked List
 |  |
 | ------- |
