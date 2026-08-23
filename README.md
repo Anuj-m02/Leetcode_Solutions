@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1774-closest-dessert-cost](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1774-closest-dessert-cost) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
+| [1774-closest-dessert-cost](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1774-closest-dessert-cost) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Graph Theory
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1537-get-the-maximum-score) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1774-closest-dessert-cost](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1774-closest-dessert-cost) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1987-number-of-unique-good-subsequences) |
 | [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
@@ -619,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0956-tallest-billboard](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0956-tallest-billboard) |
+| [1774-closest-dessert-cost](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1774-closest-dessert-cost) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -808,4 +812,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Mixed Knapsack
+|  |
+| ------- |
+| [1774-closest-dessert-cost](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1774-closest-dessert-cost) |
 <!---LeetCode Topics End-->
