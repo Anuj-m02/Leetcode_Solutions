@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0312-burst-balloons](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0312-burst-balloons) |
 | [0456-132-pattern](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0456-132-pattern) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0456-132-pattern](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0456-132-pattern) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1139-largest-1-bordered-square](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1139-largest-1-bordered-square) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
