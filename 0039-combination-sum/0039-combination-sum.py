@@ -1,19 +1,19 @@
-# class Solution:
-#     def combinationSum(self, arr: List[int], target: int) -> List[List[int]]:
-#         res = []
-#         ds = []
-#         def f(indx,target,arr,res,ds):
-#             if indx == len(arr):
-#                 if target == 0 :
-#                     res.append(ds.copy())
-#                 return 
-#             if arr[indx] <= target :
-#                 ds.append(arr[indx])
-#                 f(indx,target-arr[indx],arr,res,ds)
-#                 ds.pop()
-#             f(indx+1,target,arr,res,ds)
-#         f(0,target,arr,res,ds)
-#         return res
+class Solution:
+    def combinationSum(self, arr: List[int], target: int) -> List[List[int]]:
+        res = []
+        ds = []
+        def f(indx,target,arr,res,ds):
+            if indx == len(arr):
+                if target == 0 :
+                    res.append(ds.copy())
+                return 
+            if arr[indx] <= target :
+                ds.append(arr[indx])
+                f(indx,target-arr[indx],arr,res,ds)
+                ds.pop()
+            f(indx+1,target,arr,res,ds)
+        f(0,target,arr,res,ds)
+        return res
 
 from typing import List
 
