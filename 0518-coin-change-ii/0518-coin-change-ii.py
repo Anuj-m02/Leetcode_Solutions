@@ -7,23 +7,40 @@ class Solution:
 
         n = len(coins)
 
-        @lru_cache(None)
-        def f(indx , target):
-            if indx == 0 :
-                if target % coins[0] == 0:
-                    return 1
+
+        @cache
+        def dp(indx , target) :
+
+            if target == 0 :
+                return 1
+            if indx == n :
                 return 0
             
-            not_take = f(indx-1 , target)
-
-
-            first = 0
+            
+            not_take = dp(indx+1 , target)
+            take = 0
             if coins[indx] <= target :
-                first = f(indx , target - coins[indx])
+                take = dp(indx , target-coins[indx])
+            
+            return take + not_take
 
-            return not_take + first
+        # @lru_cache(None)
+        # def f(indx , target):
+        #     if indx == 0 :
+        #         if target % coins[0] == 0:
+        #             return 1
+        #         return 0
+            
+        #     not_take = f(indx-1 , target)
+
+
+        #     first = 0
+        #     if coins[indx] <= target :
+        #         first = f(indx , target - coins[indx])
+
+        #     return not_take + first
         
-        return f(n-1 , amount)
+        return dp(0, amount)
 
 # class Solution:
 #     def change(self, amount: int, coins: List[int]) -> int:
