@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
+| [0198-house-robber](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0312-burst-balloons](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0312-burst-balloons) |
 | [0456-132-pattern](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0456-132-pattern) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
+| [0198-house-robber](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0312-burst-balloons) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
