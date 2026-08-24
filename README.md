@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0039-combination-sum) |
+| [0063-unique-paths-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0198-house-robber) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [1139-largest-1-bordered-square](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1139-largest-1-bordered-square) |
