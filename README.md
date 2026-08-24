@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0685-redundant-connection-ii) |
+| [0785-is-graph-bipartite](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [0913-cat-and-mouse](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0913-cat-and-mouse) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0685-redundant-connection-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0685-redundant-connection-ii) |
+| [0785-is-graph-bipartite](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
 | [0968-binary-tree-cameras](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0968-binary-tree-cameras) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0685-redundant-connection-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0685-redundant-connection-ii) |
+| [0785-is-graph-bipartite](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0547-number-of-provinces](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0685-redundant-connection-ii) |
+| [0785-is-graph-bipartite](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2076-process-restricted-friend-requests](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2076-process-restricted-friend-requests) |
@@ -842,4 +846,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1774-closest-dessert-cost](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1774-closest-dessert-cost) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
