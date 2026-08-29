@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
+| [3429-paint-house-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3429-paint-house-iv) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3493-properties-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3493-properties-graph) |
 | [3523-make-array-non-decreasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3523-make-array-non-decreasing) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+| [3429-paint-house-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3429-paint-house-iv) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
