@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1139-largest-1-bordered-square](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1187-make-array-strictly-increasing) |
+| [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1306-jump-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0488-zuma-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0488-zuma-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1278-palindrome-partitioning-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1278-palindrome-partitioning-iii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1397-find-all-good-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1397-find-all-good-strings) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0975-odd-even-jump](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0975-odd-even-jump) |
 | [1187-make-array-strictly-increasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1187-make-array-strictly-increasing) |
+| [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1340-jump-game-v](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1340-jump-game-v) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1306-jump-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -514,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1306-jump-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1345-jump-game-iv) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -594,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0685-redundant-connection-ii) |
 | [0785-is-graph-bipartite](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
+| [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2076-process-restricted-friend-requests](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2076-process-restricted-friend-requests) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -622,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1124-longest-well-performing-interval](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1124-longest-well-performing-interval) |
+| [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
