@@ -45,7 +45,17 @@ class Solution:
         
         n = len(nums)
 
-        sorted_indices = sorted(range(n) , key = lambda i : nums[i])
+        sorted_indices_1 = []
+        for indx , val in enumerate(nums) :
+            sorted_indices_1.append((val , indx))
+        
+        sorted_indices_1.sort()
+        sorted_indices = []
+        for i in range(n) :
+            sorted_indices.append(sorted_indices_1[i][1])
+
+
+        # sorted_indices = sorted(range(n) , key = lambda i : nums[i])
         dsu = DSU(n)
         for i in range(n-1) :
             indx1 = sorted_indices[i]
