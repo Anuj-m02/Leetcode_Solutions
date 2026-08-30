@@ -621,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0299-bulls-and-cows](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0299-bulls-and-cows) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0432-all-oone-data-structure](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0460-lfu-cache) |
 | [0621-task-scheduler](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0740-delete-and-earn](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
@@ -725,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0432-all-oone-data-structure](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0460-lfu-cache) |
 | [0895-maximum-frequency-stack](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
 | [1472-design-browser-history](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1472-design-browser-history) |
@@ -908,12 +910,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1472-design-browser-history) |
 ## Least Common Multiple
