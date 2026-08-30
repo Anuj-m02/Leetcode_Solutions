@@ -15,15 +15,22 @@ class TextEditor:
             self.left.append(letters)
             # self.cursor += 1
             # self.length += 1
+        
+        # print(self.left)
+        # print(self.right)
 
 
     def deleteText(self, k: int) -> int:
         cnt = 0
+
         while self.left and cnt < k :
             self.left.pop()
             cnt += 1
-        
+        # print(self.left)
+        # print(self.right)      
         return cnt
+                
+  
 
 
     def cursorLeft(self, k: int) -> str:
@@ -31,7 +38,8 @@ class TextEditor:
         while self.left and k > 0 :
             self.right.append(self.left.pop())
             k -= 1
-        
+        # print(self.left)
+        # print(self.right)       
         return "".join(self.left[-10 : ])
 
 
@@ -41,7 +49,8 @@ class TextEditor:
         while self.right and k > 0 :
             self.left.append(self.right.pop())
             k -= 1
-        
+        # print(self.left)
+        # print(self.right)
         return "".join(self.left[-10:])
         
 
