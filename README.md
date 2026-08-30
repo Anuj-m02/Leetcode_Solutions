@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0546-remove-boxes) |
 | [0621-task-scheduler](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0621-task-scheduler) |
+| [0622-design-circular-queue](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0636-exclusive-time-of-functions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0740-delete-and-earn](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0877-stone-game) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -728,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0432-all-oone-data-structure](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0895-maximum-frequency-stack](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
 | [1472-design-browser-history](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1472-design-browser-history) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
@@ -912,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [1472-design-browser-history](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
