@@ -1,7 +1,7 @@
 from collections import defaultdict , deque
 import heapq
 
-__import__("atexit").register(lambda: open("display_runtime.txt", 'w').write('0'))
+# __import__("atexit").register(lambda: open("display_runtime.txt", 'w').write('0'))
 class LRUCache:
 
     def __init__(self, capacity: int):
