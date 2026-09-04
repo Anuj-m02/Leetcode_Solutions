@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1397-find-all-good-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1397-find-all-good-strings) |
 | [1446-consecutive-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1446-consecutive-characters) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1745-palindrome-partitioning-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1745-palindrome-partitioning-iv) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1987-number-of-unique-good-subsequences) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1537-get-the-maximum-score) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [1745-palindrome-partitioning-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1745-palindrome-partitioning-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1774-closest-dessert-cost](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1774-closest-dessert-cost) |
