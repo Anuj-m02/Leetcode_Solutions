@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3429-paint-house-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3429-paint-house-iv) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2826-sorting-three-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2826-sorting-three-groups) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 ## Counting
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3429-paint-house-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3429-paint-house-iv) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
