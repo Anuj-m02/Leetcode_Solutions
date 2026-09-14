@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0836-rectangle-overlap](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0913-cat-and-mouse](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0913-cat-and-mouse) |
@@ -1058,4 +1059,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
