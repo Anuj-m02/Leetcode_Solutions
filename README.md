@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1686-stone-game-vi) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1686-stone-game-vi](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1686-stone-game-vi) |
+| [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
 | [1872-stone-game-viii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1494-parallel-courses-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1494-parallel-courses-ii) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
 | [1791-find-center-of-star-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1791-find-center-of-star-graph) |
 | [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
 | [1745-palindrome-partitioning-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1745-palindrome-partitioning-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1139-largest-1-bordered-square](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1139-largest-1-bordered-square) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -738,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0913-cat-and-mouse) |
+| [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
 | [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -763,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0546-remove-boxes) |
 | [0913-cat-and-mouse](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0913-cat-and-mouse) |
 | [1137-n-th-tribonacci-number](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Enumeration
@@ -839,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1686-stone-game-vi) |
+| [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
 | [1872-stone-game-viii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Game Theory
@@ -852,6 +860,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1686-stone-game-vi](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1686-stone-game-vi) |
+| [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
 | [1872-stone-game-viii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Two Pointers
@@ -885,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1686-stone-game-vi](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1686-stone-game-vi) |
+| [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
 | [1872-stone-game-viii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 ## Longest Increasing Subsequence
