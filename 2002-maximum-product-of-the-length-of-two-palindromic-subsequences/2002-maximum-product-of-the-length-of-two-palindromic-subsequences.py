@@ -36,9 +36,9 @@ class Solution:
                 return
             
             #INCLUDE
-            sub1_indices.add(indx)
-            dfs(indx+1 , sub1_chars + s[indx] , sub1_indices)
-            sub1_indices.remove(indx)
+            # sub1_indices.add(indx)
+            dfs(indx+1 , sub1_chars + s[indx] , sub1_indices | {indx})
+            # sub1_indices.remove(indx)
             #EXCLUDE
             dfs(indx+1 , sub1_chars , sub1_indices)
         
