@@ -2,18 +2,39 @@ class Solution:
     def minimumTime(self, s: str) -> int:
         
         n = len(s)
-
-
-        ans = n
-        left_dp = 0
-
-        for indx , char in enumerate(s) :
-            if char == "1" :
-                left_dp = min(left_dp + 2 , indx+1)
-            
-            ans = min(ans, left_dp + (n-1-indx))
         
-        return min(ans , left_dp)
+        @lru_cache(maxsize=None)
+        def dp(i: int) -> int:
+            if i < 0:
+                return 0
+
+            # If current car is '0', no cost added
+            if s[i] == "0":
+                return dp(i - 1)
+
+            # If '1', min of removing middle (cost 2) vs removing entire left prefix (cost i+1)
+            return min(dp(i - 1) + 2, i + 1)
+
+        # Find min cost across all split points i (prefix cost + suffix clear cost)
+        ans = n  # Max cost (removing all cars from right)
+
+        for i in range(n):
+            # dp(i) handles prefix s[0...i]
+            # (n - 1 - i) removes suffix s[i+1...n-1] from the right
+            ans = min(ans, dp(i) + (n - 1 - i))
+
+        return min(ans, dp(n - 1))
+
+        # ans = n
+        # left_dp = 0
+
+        # for indx , char in enumerate(s) :
+        #     if char == "1" :
+        #         left_dp = min(left_dp + 2 , indx+1)
+            
+        #     ans = min(ans, left_dp + (n-1-indx))
+        
+        # return min(ans , left_dp)
 
         # @lru_cache(maxsize=None)
         # def dp(left , right) :
