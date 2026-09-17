@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2376-count-special-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2376-count-special-integers) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2376-count-special-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2376-count-special-integers) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2560-house-robber-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2560-house-robber-iv) |
 | [2707-extra-characters-in-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2707-extra-characters-in-a-string) |
