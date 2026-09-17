@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1735-count-ways-to-make-array-with-product](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1686-stone-game-vi](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1686-stone-game-vi) |
 | [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
+| [1735-count-ways-to-make-array-with-product](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1872-stone-game-viii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
+| [1735-count-ways-to-make-array-with-product](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1745-palindrome-partitioning-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1745-palindrome-partitioning-iv) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -818,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1735-count-ways-to-make-array-with-product](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1735-count-ways-to-make-array-with-product) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
@@ -1014,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1735-count-ways-to-make-array-with-product](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1735-count-ways-to-make-array-with-product) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Linked List
@@ -1119,4 +1124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1192-critical-connections-in-a-network) |
+## Prime Factorization
+|  |
+| ------- |
+| [1735-count-ways-to-make-array-with-product](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1735-count-ways-to-make-array-with-product) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1735-count-ways-to-make-array-with-product](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1735-count-ways-to-make-array-with-product) |
 <!---LeetCode Topics End-->
