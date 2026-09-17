@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0836-rectangle-overlap](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0877-stone-game) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [1774-closest-dessert-cost](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1774-closest-dessert-cost) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0312-burst-balloons](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0474-ones-and-zeroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0488-zuma-game) |
