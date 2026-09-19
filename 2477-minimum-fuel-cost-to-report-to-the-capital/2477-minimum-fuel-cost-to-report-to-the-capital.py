@@ -31,7 +31,7 @@ class Solution:
 
       for neighbour in graph[curr_node]:
         if indegree[neighbour] > 0:  # Only process active edges
-          indegree[curr_node] -= 1
+        #   indegree[curr_node] -= 1
           indegree[neighbour] -= 1
 
           rep[neighbour] += rep[curr_node]
