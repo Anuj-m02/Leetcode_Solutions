@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3429-paint-house-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3429-paint-house-iv) |
+| [3435-frequencies-of-shortest-supersequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3493-properties-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3493-properties-graph) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3435-frequencies-of-shortest-supersequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3276-select-cells-in-grid-with-maximum-score) |
+| [3435-frequencies-of-shortest-supersequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3419-minimize-the-maximum-edge-weight-of-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3419-minimize-the-maximum-edge-weight-of-graph) |
+| [3435-frequencies-of-shortest-supersequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3493-properties-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3493-properties-graph) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -825,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2360-longest-cycle-in-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2603-collect-coins-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2603-collect-coins-in-a-tree) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
+| [3435-frequencies-of-shortest-supersequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3812-minimum-edge-toggles-on-a-tree) |
@@ -853,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
+| [3435-frequencies-of-shortest-supersequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
