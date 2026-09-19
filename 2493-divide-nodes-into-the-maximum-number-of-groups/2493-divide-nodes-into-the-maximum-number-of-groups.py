@@ -1,84 +1,59 @@
-# from collections import defaultdict , deque , Counter
+from collections import deque, defaultdict
 
-
-# # class DSU :
-# #     def __init__(self , n) :
-# #         self.n = n
-# #         self.parent = list(range(n))
-# #         self.size = [1]*(n)
+class DSU:
+    def __init__(self, n: int):
+        # 0-indexed parent array
+        self.parent = list(range(n))
     
-# #     def find(self , node) :
-# #         if self.parent[node] != node :
-# #             self.parent[node] = self.find(self.parent[node])
-        
-# #         return self.parent[node]
+    def find(self, x: int) -> int:
+        if self.parent[x] != x:
+            self.parent[x] = self.find(self.parent[x])
+        return self.parent[x]
     
-# #     def union(self , x , y) :
-# #         xr , yr = self.find(x) , self.find(y)
+    def union(self, x: int, y: int) -> None:
+        rx, ry = self.find(x), self.find(y)
+        if rx != ry:
+            self.parent[rx] = ry
 
-# #         if xr == yr :
-# #             return False
+
+class Solution:
+    def magnificentSets(self, n: int, edges: list[list[int]]) -> int:
+        # 1. Build adjacency list (converted to 0-indexed)
+        g = [[] for _ in range(n)]
+        dsu = DSU(n)
         
-# #         self.parent[xr] = yr
-# #         self.size[yr] += self.size[xr]
-# #         return True
+        for a, b in edges:
+            u, v = a - 1, b - 1
+            g[u].append(v)
+            g[v].append(u)
+            dsu.union(u, v)
 
+        # 2. Run BFS from every node to check bipartiteness & track maximum depth per component
+        max_depth_per_component = defaultdict(int)
 
-# class Solution:
-#     def magnificentSets(self, n: int, edges: list[list[int]]) -> int:
+        for start_node in range(n):
+            queue = deque([start_node])
+            dist = [0] * n
+            dist[start_node] = 1
+            max_depth = 1
 
-#         graph = defaultdict(list)
-#         for u,v in edges :
-#             graph[u].append(v)
-#             graph[v].append(u)
-        
-#         colour = [0]*(n+1)
-#         component = []
+            while queue:
+                curr = queue.popleft()
+                for neighbor in g[curr]:
+                    if dist[neighbor] == 0:
+                        dist[neighbor] = dist[curr] + 1
+                        max_depth = max(max_depth, dist[neighbor])
+                        queue.append(neighbor)
+                    elif abs(dist[neighbor] - dist[curr]) != 1:
+                        # Adjacent nodes in the same layer -> Odd-length cycle found
+                        return -1
 
-#         for i in range(1,n+1) :
-#             if colour[i] != 0 :
-#                 continue
-            
-#             comp = []
-#             queue = deque([i])
-#             colour[i] = 1
+            # Store the largest BFS depth for this component root
+            root = dsu.find(start_node)
+            max_depth_per_component[root] = max(max_depth_per_component[root], max_depth)
 
-#             while queue :
-#                 curr = queue.popleft()
-#                 comp.append(curr)
-#                 for neighbour in graph[curr] :
-#                     if colour[neighbour] == 0 :
-#                         colour[neighbour] = -colour[curr]
-#                         queue.append(neighbour)
-#                     elif colour[neighbour] == colour[curr] :
-#                         return -1 # odd cycle found
-            
-#             component.append(comp)
-        
-    
-#         def max_groups(start_node) :
-#             visited = [-1]*(n+1)
-#             visited[start_node] = 1
-#             queue = deque([start_node])
-#             max_depth = 1
-
-#             while queue :
-#                 curr = queue.popleft()
-#                 for neighbour in graph[curr] :
-#                     if visited[neighbour] == -1 :
-#                         visited[neighbour] = visited[curr_node] + 1
-#                         max_depth = max(max_depth , visited[neighbour])
-#                         queue.append(neighbour)
-            
-#             return max_depth
-        
-#         total_grps = 0
-#         for comp in component :
-#             max_comp_grps = max(max_grps(node) for node in comp)
-#             total_grps += max_comp_grps
-        
-#         return total_grps
-
+        # 3. Sum maximum groups across all components
+        return sum(max_depth_per_component.values())
 
 from collections import deque
 
