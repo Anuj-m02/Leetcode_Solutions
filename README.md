@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2826-sorting-three-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2826-sorting-three-groups) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3068-find-the-maximum-sum-of-node-values) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2741-special-permutations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2741-special-permutations) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1774-closest-dessert-cost](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1774-closest-dessert-cost) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2826-sorting-three-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2826-sorting-three-groups) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2827-number-of-beautiful-integers-in-the-range) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -716,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3276-select-cells-in-grid-with-maximum-score) |
@@ -1075,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2741-special-permutations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2741-special-permutations) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 ## Binary Lifting
