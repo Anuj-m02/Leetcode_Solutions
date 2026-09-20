@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [3989-maximum-consistent-columns-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 | [4054-count-shadow-pairs-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4054-count-shadow-pairs-i) |
 ## Math
 |  |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Matrix
 |  |
 | ------- |
@@ -735,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3989-maximum-consistent-columns-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Shortest Path
 |  |
 | ------- |
@@ -755,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
+| [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
 ## Union-Find
 |  |
 | ------- |
