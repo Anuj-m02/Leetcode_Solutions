@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -1071,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2296-design-a-text-editor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2296-design-a-text-editor) |
 | [2751-robot-collisions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bitmask
 |  |
 | ------- |
