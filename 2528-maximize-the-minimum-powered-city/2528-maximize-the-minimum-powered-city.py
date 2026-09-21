@@ -21,33 +21,54 @@ class Solution:
         high = sum(stations) + k
         ans = low
 
-        def check(target) :
-            # diffrence array mthd
-            additions = [0]*(n+1)
-            curr_added = 0
-            needed_k = 0
+        def check(min_power_req , additional_stations) :
+            window_power = sum(stations[:r])
+            additions = [0]*(n)
 
-            for i in range(n):
-                curr_added += additions[i]
-                curr_power = power[i] + curr_added
-
-                if curr_power < target :
-                    diff = target - curr_power
-                    needed_k += diff
-                    if needed_k > k :
+            for i in range(n) :
+                if i + r < n :
+                    window_power += stations[i+r]
+                
+                if window_power < min_power_req :
+                    needed = min_power_req - window_power
+                    if needed > additional_stations :
                         return False
-                    
-                    curr_added += diff
+                
+                    additions[min(n-1 , i+r)] += needed
+                    window_power = min_power_req
+                    additional_stations -= needed
+                if i-r >= 0 :
+                    window_power -= stations[i-r] + additions[i-r]
 
-                    if i + 2*r + 1 < n :
-                        additions[i + 2*r + 1] -= diff
+            return True    
+
+        # def check(target) :
+        #     # diffrence array mthd
+        #     additions = [0]*(n+1)
+        #     curr_added = 0
+        #     needed_k = 0
+
+        #     for i in range(n):
+        #         curr_added += additions[i]
+        #         curr_power = power[i] + curr_added
+
+        #         if curr_power < target :
+        #             diff = target - curr_power
+        #             needed_k += diff
+        #             if needed_k > k :
+        #                 return False
+                    
+        #             curr_added += diff
+
+        #             if i + 2*r + 1 < n :
+        #                 additions[i + 2*r + 1] -= diff
             
-            return True
+        #     return True
 
 
         while low <= high :
             mid = (low+high)//2
-            if check(mid) :
+            if check(mid , k) :
                 ans = mid
                 low = mid+1
             else :
