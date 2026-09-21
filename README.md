@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3493-properties-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3493-properties-graph) |
 | [3523-make-array-non-decreasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3523-make-array-non-decreasing) |
+| [3524-find-x-value-of-array-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
+| [3524-find-x-value-of-array-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3870-count-commas-in-range](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-paint-house-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3429-paint-house-iv) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
+| [3524-find-x-value-of-array-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
