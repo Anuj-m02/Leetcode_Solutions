@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1735-count-ways-to-make-array-with-product](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1872-stone-game-viii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2376-count-special-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2376-count-special-integers) |
 | [2719-count-of-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2719-count-of-integers) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
@@ -1012,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1537-get-the-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1537-get-the-maximum-score) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
