@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2826-sorting-three-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2826-sorting-three-groups) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2478-number-of-beautiful-partitions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2478-number-of-beautiful-partitions) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3904-smallest-stable-index-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -852,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2374-node-with-highest-edge-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2374-node-with-highest-edge-score) |
 | [2707-extra-characters-in-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2707-extra-characters-in-a-string) |
+| [2875-minimum-size-subarray-in-infinite-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
