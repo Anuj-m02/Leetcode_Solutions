@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2467-most-profitable-path-in-a-tree) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1782-count-pairs-of-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1782-count-pairs-of-nodes) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2751-robot-collisions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2751-robot-collisions) |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2374-node-with-highest-edge-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2374-node-with-highest-edge-score) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2707-extra-characters-in-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -1064,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1782-count-pairs-of-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1782-count-pairs-of-nodes) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
