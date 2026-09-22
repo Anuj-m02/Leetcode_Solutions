@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0636-exclusive-time-of-functions) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0740-delete-and-earn](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
+| [0809-expressive-words](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0809-expressive-words) |
 | [0835-image-overlap](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0299-bulls-and-cows) |
 | [0474-ones-and-zeroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0488-zuma-game) |
+| [0809-expressive-words](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0809-expressive-words) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0940-distinct-subsequences-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -1034,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0809-expressive-words](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0809-expressive-words) |
 | [1537-get-the-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1537-get-the-maximum-score) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
