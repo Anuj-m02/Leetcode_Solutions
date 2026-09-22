@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3710-maximum-partition-factor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3710-maximum-partition-factor) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3814-maximum-capacity-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3814-maximum-capacity-within-budget) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3895-count-digit-appearances](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3710-maximum-partition-factor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3710-maximum-partition-factor) |
+| [3814-maximum-capacity-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3814-maximum-capacity-within-budget) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 ## Greedy
 |  |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3812-minimum-edge-toggles-on-a-tree) |
+| [3814-maximum-capacity-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3814-maximum-capacity-within-budget) |
 ## Counting
 |  |
 | ------- |
@@ -1064,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3814-maximum-capacity-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3814-maximum-capacity-within-budget) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Euclidean Algorithm
 |  |
