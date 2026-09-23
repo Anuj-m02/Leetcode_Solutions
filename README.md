@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 | [3904-smallest-stable-index-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
+| [3911-k-th-smallest-remaining-even-integer-in-subarray-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3911-k-th-smallest-remaining-even-integer-in-subarray-queries) |
 | [3928-minimum-cost-to-buy-apples-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3928-minimum-cost-to-buy-apples-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3710-maximum-partition-factor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3710-maximum-partition-factor) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3814-maximum-capacity-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3814-maximum-capacity-within-budget) |
+| [3911-k-th-smallest-remaining-even-integer-in-subarray-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3911-k-th-smallest-remaining-even-integer-in-subarray-queries) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Greedy
