@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3989-maximum-consistent-columns-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 | [4054-count-shadow-pairs-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4054-count-shadow-pairs-i) |
 ## Math
 |  |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3814-maximum-capacity-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3814-maximum-capacity-within-budget) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
+| [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Greedy
 |  |
 | ------- |
