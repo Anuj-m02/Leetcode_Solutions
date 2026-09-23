@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0312-burst-balloons](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0376-wiggle-subsequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0376-wiggle-subsequence) |
 | [0456-132-pattern](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0463-island-perimeter) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0456-132-pattern) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1187-make-array-strictly-increasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1187-make-array-strictly-increasing) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0463-island-perimeter](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0835-image-overlap) |
@@ -958,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0456-132-pattern) |
 | [0895-maximum-frequency-stack](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0975-odd-even-jump](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0975-odd-even-jump) |
