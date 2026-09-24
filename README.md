@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1208-get-equal-substrings-within-budget) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1268-search-suggestions-system](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1278-palindrome-partitioning-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1278-palindrome-partitioning-iii) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0975-odd-even-jump](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0975-odd-even-jump) |
 | [1124-longest-well-performing-interval](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1124-longest-well-performing-interval) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1472-design-browser-history](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1472-design-browser-history) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
