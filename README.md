@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1717-maximum-score-from-removing-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2296-design-a-text-editor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2296-design-a-text-editor) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2751-robot-collisions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2751-robot-collisions) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
