@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1745-palindrome-partitioning-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1745-palindrome-partitioning-iv) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1987-number-of-unique-good-subsequences) |
+| [2000-reverse-prefix-of-word](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1472-design-browser-history](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1472-design-browser-history) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1717-maximum-score-from-removing-substrings) |
+| [2000-reverse-prefix-of-word](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2296-design-a-text-editor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2296-design-a-text-editor) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -1117,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1537-get-the-maximum-score) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1782-count-pairs-of-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1782-count-pairs-of-nodes) |
+| [2000-reverse-prefix-of-word](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
