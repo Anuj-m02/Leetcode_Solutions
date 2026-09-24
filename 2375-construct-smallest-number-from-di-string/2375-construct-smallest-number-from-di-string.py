@@ -3,26 +3,39 @@ class Solution:
         
         n = len(pattern)
 
-        def dp(indx , prev_num , s) :
+        # @lru_cache(maxsize=None)
+        # def dp(indx , prev_num , s) :
 
-            if indx >= n :
-                return s
+        #     if indx >= n :
+        #         return s
             
-            ans = "9"*10
-            if pattern[indx] == "I" :
-                for i in range(prev_num+1 , 10) :
-                    if str(i) not in s :
-                        ans = min(ans , dp(indx+1 , i , s + str(i)))
+        #     ans = "9"*10
+        #     if pattern[indx] == "I" :
+        #         for i in range(prev_num+1 , 10) :
+        #             if str(i) not in s :
+        #                 ans = min(ans , dp(indx+1 , i , s + str(i)))
             
-            if pattern[indx] == "D" :
-                for i in range(1 , prev_num) :
-                    if str(i) not in s :
-                        ans = min(ans , dp(indx+1 , i , s + str(i)))
+        #     if pattern[indx] == "D" :
+        #         for i in range(1 , prev_num) :
+        #             if str(i) not in s :
+        #                 ans = min(ans , dp(indx+1 , i , s + str(i)))
             
-            return ans
+        #     return ans
 
-        res = "9"*10
-        for i in range(1 , 10) :
-            res = min(res , dp(0 , i , str(i)))
+        # res = "9"*10
+        # for i in range(1 , 10) :
+        #     res = min(res , dp(0 , i , str(i)))
         
-        return res
+        # return res
+
+        res = []
+        stack = []
+
+        for i in range(n+1) :
+            stack.append(str(i+1))
+
+            if i == n or pattern[i] == "I" :
+                while stack :
+                    res.append(stack.pop())
+        
+        return "".join(res)
