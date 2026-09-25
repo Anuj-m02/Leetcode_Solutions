@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0940-distinct-subsequences-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1096-brace-expansion-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0975-odd-even-jump](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0975-odd-even-jump) |
 | [1006-clumsy-factorial](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1006-clumsy-factorial) |
+| [1096-brace-expansion-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1124-longest-well-performing-interval](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1124-longest-well-performing-interval) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0881-boats-to-save-people](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0975-odd-even-jump](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0975-odd-even-jump) |
+| [1096-brace-expansion-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1187-make-array-strictly-increasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1774-closest-dessert-cost](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1774-closest-dessert-cost) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -791,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
+| [1096-brace-expansion-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1306-jump-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
@@ -930,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0895-maximum-frequency-stack](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [1096-brace-expansion-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1124-longest-well-performing-interval](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1124-longest-well-performing-interval) |
 | [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
