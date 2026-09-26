@@ -707,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2376-count-special-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2376-count-special-integers) |
+| [2466-count-ways-to-build-good-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2466-count-ways-to-build-good-strings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2478-number-of-beautiful-partitions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2478-number-of-beautiful-partitions) |
 | [2560-house-robber-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2560-house-robber-iv) |
