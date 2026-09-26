@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3814-maximum-capacity-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3814-maximum-capacity-within-budget) |
+| [3850-count-sequences-to-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3850-count-sequences-to-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3895-count-digit-appearances](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-number-of-perfect-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3850-count-sequences-to-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3850-count-sequences-to-k) |
 | [3870-count-commas-in-range](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3686-number-of-stable-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3686-number-of-stable-subsequences) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3850-count-sequences-to-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3850-count-sequences-to-k) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [3989-maximum-consistent-columns-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3989-maximum-consistent-columns-in-a-grid) |
@@ -1043,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3850-count-sequences-to-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3850-count-sequences-to-k) |
 ## Enumeration
 |  |
 | ------- |
@@ -1076,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
+| [3850-count-sequences-to-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3850-count-sequences-to-k) |
 ## Design
 |  |
 | ------- |
