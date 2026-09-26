@@ -79,32 +79,31 @@ class Solution:
         n = len(dist)
 
         @lru_cache(maxsize=None)
-        def dp(i, skips):
-            """
-            Returns the minimum total accumulated "dist-time" needed to process 
-            the first `i` roads using `skips` total skips.
-            """
-            if skips < 0:
-                return float("inf")
-            if i == 0:
+        def dp(indx, skips):
+            # Base Case: All roads finished
+            if indx >= n:
                 return 0
 
-            d = dist[i - 1]
+            d = dist[indx]
 
-            # Option 1: Rested after road i-2 (or it was starting at index 0)
-            # Need to ceil the previous cumulative time/distance to the next multiple of speed.
-            prev_rested = dp(i - 1, skips)
-            option_rest = math.ceil(prev_rested / speed) * speed + d
+            # Option 1: Take rest after this road (only possible if not the last road)
+            # If it's the last road (indx == n - 1), no rest is taken, so no ceiling needed.
+            # if indx < n - 1:
+                # Calculate time spent so far after resting: ceil((current_dist + d) / speed) * speed
+            rest_cost = math.ceil((dp(indx + 1, skips) + d) / speed) * speed
+            # else:
+            #     rest_cost = dp(indx + 1, skips) + d
 
-            # Option 2: Skipped rest after road i-2
-            prev_skipped = dp(i - 1, skips - 1)
-            option_skip = prev_skipped + d
+            # Option 2: Skip rest after this road
+            skip_cost = float("inf")
+            if skips > 0:
+                skip_cost = dp(indx + 1, skips - 1) + d
 
-            return min(option_rest, option_skip)
+            return min(rest_cost, skip_cost)
 
-        # Check the minimum number of skips (from 0 up to n - 1) that fits within hoursBefore
+        # Try minimum skips from 0 to n - 1
         for skips in range(n):
-            if dp(n, skips) <= hoursBefore * speed:
+            if dp(0, skips) <= hoursBefore * speed:
                 return skips
 
         return -1
