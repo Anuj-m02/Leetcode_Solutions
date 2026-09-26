@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
+| [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1883-minimum-skips-to-arrive-at-meeting-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1774-closest-dessert-cost](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1774-closest-dessert-cost) |
 | [1872-stone-game-viii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
+| [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1883-minimum-skips-to-arrive-at-meeting-on-time) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1987-number-of-unique-good-subsequences) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
