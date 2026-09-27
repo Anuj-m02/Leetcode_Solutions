@@ -1407,6 +1407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0620-not-boring-movies) |
 | [1045-customers-who-bought-all-products](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1045-customers-who-bought-all-products) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1075-project-employees-i) |
