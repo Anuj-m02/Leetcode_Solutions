@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1124-longest-well-performing-interval](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1124-longest-well-performing-interval) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1472-design-browser-history](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1472-design-browser-history) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1478,6 +1480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Cartesian Tree
 |  |
