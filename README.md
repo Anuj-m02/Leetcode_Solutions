@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0165-compare-version-numbers) |
 | [0299-bulls-and-cows](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0299-bulls-and-cows) |
+| [0466-count-the-repetitions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0466-count-the-repetitions) |
 | [0474-ones-and-zeroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0488-zuma-game) |
 | [0809-expressive-words](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0809-expressive-words) |
@@ -650,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0376-wiggle-subsequence) |
+| [0466-count-the-repetitions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0466-count-the-repetitions) |
 | [0474-ones-and-zeroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0494-target-sum) |
@@ -1160,6 +1162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0165-compare-version-numbers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0466-count-the-repetitions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0466-count-the-repetitions) |
 | [0809-expressive-words](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0809-expressive-words) |
 | [0832-flipping-an-image](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
