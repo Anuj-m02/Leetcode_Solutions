@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1139-largest-1-bordered-square](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1187-make-array-strictly-increasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1139-largest-1-bordered-square](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1187-make-array-strictly-increasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1220-count-vowels-permutation](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1220-count-vowels-permutation) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
