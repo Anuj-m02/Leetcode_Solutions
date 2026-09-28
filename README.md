@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
 | [3649-number-of-perfect-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3660-jump-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3530-maximum-profit-from-valid-topological-order-in-dag](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3530-maximum-profit-from-valid-topological-order-in-dag) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
 | [3660-jump-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -910,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3989-maximum-consistent-columns-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
