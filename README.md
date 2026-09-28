@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0880-decoded-string-at-index](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0880-decoded-string-at-index) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0940-distinct-subsequences-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -944,6 +945,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0952-largest-component-size-by-common-factor) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1632-rank-transform-of-a-matrix) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
