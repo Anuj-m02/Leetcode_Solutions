@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0809-expressive-words](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0809-expressive-words) |
 | [0832-flipping-an-image](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0835-image-overlap) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0877-stone-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0376-wiggle-subsequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0376-wiggle-subsequence) |
 | [0621-task-scheduler](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0621-task-scheduler) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0621-task-scheduler](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0621-task-scheduler) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0975-odd-even-jump](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0975-odd-even-jump) |
 | [1096-brace-expansion-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
@@ -860,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0621-task-scheduler) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0882-reachable-nodes-in-subdivided-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0882-reachable-nodes-in-subdivided-graph) |
 | [1268-search-suggestions-system](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
