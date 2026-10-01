@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3710-maximum-partition-factor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3710-maximum-partition-factor) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3814-maximum-capacity-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3814-maximum-capacity-within-budget) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3356-zero-array-transformation-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3904-smallest-stable-index-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
@@ -1046,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 ## Tree
 |  |
