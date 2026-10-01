@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2518-number-of-great-partitions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2518-number-of-great-partitions) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2560-house-robber-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2466-count-ways-to-build-good-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2466-count-ways-to-build-good-strings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2478-number-of-beautiful-partitions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2478-number-of-beautiful-partitions) |
+| [2518-number-of-great-partitions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2518-number-of-great-partitions) |
 | [2560-house-robber-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2560-house-robber-iv) |
 | [2707-extra-characters-in-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2719-count-of-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2719-count-of-integers) |
