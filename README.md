@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3152-special-array-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3152-special-array-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-maximize-the-minimum-powered-city](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3152-special-array-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3152-special-array-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3356-zero-array-transformation-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3356-zero-array-transformation-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2826-sorting-three-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2826-sorting-three-groups) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3152-special-array-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3152-special-array-ii) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3356-zero-array-transformation-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3356-zero-array-transformation-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
