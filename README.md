@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1782-count-pairs-of-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1782-count-pairs-of-nodes) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1872-stone-game-viii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1883-minimum-skips-to-arrive-at-meeting-on-time) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1782-count-pairs-of-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1782-count-pairs-of-nodes) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1901-find-a-peak-element-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1782-count-pairs-of-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1782-count-pairs-of-nodes) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
@@ -937,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1686-stone-game-vi](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1686-stone-game-vi) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
@@ -1658,4 +1662,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
