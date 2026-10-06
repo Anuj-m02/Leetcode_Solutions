@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3152-special-array-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3152-special-array-ii) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3201-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3201-find-the-maximum-length-of-valid-subsequence-i) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3343-count-number-of-balanced-permutations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3343-count-number-of-balanced-permutations) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2013-detect-squares](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2013-detect-squares) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -1111,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3153-sum-of-digit-differences-of-all-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3153-sum-of-digit-differences-of-all-pairs) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3321-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3321-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
