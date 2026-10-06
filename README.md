@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3429-paint-house-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3429-paint-house-iv) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3343-count-number-of-balanced-permutations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3343-count-number-of-balanced-permutations) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3524-find-x-value-of-array-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3080-mark-elements-on-array-by-performing-queries) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3649-number-of-perfect-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -853,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3276-select-cells-in-grid-with-maximum-score) |
 | [3343-count-number-of-balanced-permutations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3343-count-number-of-balanced-permutations) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3429-paint-house-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3429-paint-house-iv) |
 | [3472-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3472-longest-palindromic-subsequence-after-at-most-k-operations) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
@@ -1468,6 +1472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3343-count-number-of-balanced-permutations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3343-count-number-of-balanced-permutations) |
+| [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 ## Linked List
 |  |
 | ------- |
