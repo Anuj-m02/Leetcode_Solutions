@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2603-collect-coins-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2603-collect-coins-in-a-tree) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2707-extra-characters-in-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2707-extra-characters-in-a-string) |
+| [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
 | [2741-special-permutations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2741-special-permutations) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2751-robot-collisions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2751-robot-collisions) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2296-design-a-text-editor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2296-design-a-text-editor) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
 | [2751-robot-collisions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [3523-make-array-non-decreasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3523-make-array-non-decreasing) |
 | [3703-remove-k-balanced-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3703-remove-k-balanced-substrings) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
 | [2826-sorting-three-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2826-sorting-three-groups) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -556,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
 | [2751-robot-collisions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1382,6 +1386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
+| [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
 | [3523-make-array-non-decreasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3523-make-array-non-decreasing) |
 | [4054-count-shadow-pairs-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4054-count-shadow-pairs-i) |
 ## Monotonic Queue
@@ -1661,6 +1666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Timsort
 |  |
@@ -1670,6 +1676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
+| [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
 ## Newton's Method
 |  |
 | ------- |
