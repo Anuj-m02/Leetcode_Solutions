@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1745-palindrome-partitioning-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1745-palindrome-partitioning-iv) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1987-number-of-unique-good-subsequences) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1686-stone-game-vi](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1686-stone-game-vi) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -1340,6 +1343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-get-the-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1537-get-the-maximum-score) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1782-count-pairs-of-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1782-count-pairs-of-nodes) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1697,6 +1701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Cartesian Tree
