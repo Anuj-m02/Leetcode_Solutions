@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0913-cat-and-mouse](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0913-cat-and-mouse) |
+| [0920-number-of-music-playlists](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0920-number-of-music-playlists) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1006-clumsy-factorial](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1006-clumsy-factorial) |
 | [1012-numbers-with-repeated-digits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1012-numbers-with-repeated-digits) |
@@ -783,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0913-cat-and-mouse](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0913-cat-and-mouse) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
+| [0920-number-of-music-playlists](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0920-number-of-music-playlists) |
 | [0935-knight-dialer](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0935-knight-dialer) |
 | [0940-distinct-subsequences-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0956-tallest-billboard](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0956-tallest-billboard) |
@@ -1499,6 +1501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0920-number-of-music-playlists](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0920-number-of-music-playlists) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1735-count-ways-to-make-array-with-product) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
