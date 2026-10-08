@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
+| [2350-shortest-impossible-sequence-of-rolls](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2381-shifting-letters-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2381-shifting-letters-ii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2392-build-a-matrix-with-conditions) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2350-shortest-impossible-sequence-of-rolls](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
@@ -1150,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-encrypt-and-decrypt-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2350-shortest-impossible-sequence-of-rolls](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2350-shortest-impossible-sequence-of-rolls) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2374-node-with-highest-edge-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2374-node-with-highest-edge-score) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
