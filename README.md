@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0463-island-perimeter) |
 | [0474-ones-and-zeroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
+| [0493-reverse-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0546-remove-boxes) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1187-make-array-strictly-increasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1187-make-array-strictly-increasing) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -1233,6 +1235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0456-132-pattern) |
+| [0493-reverse-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0895-maximum-frequency-stack](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0975-odd-even-jump](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0975-odd-even-jump) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
@@ -1574,6 +1577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -1583,6 +1587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -1714,6 +1719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Timsort
@@ -1723,6 +1729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
 ## Newton's Method
@@ -1764,4 +1771,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
