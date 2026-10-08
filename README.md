@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2167-minimum-time-to-remove-all-cars-containing-illegal-goods](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2167-minimum-time-to-remove-all-cars-containing-illegal-goods) |
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2296-design-a-text-editor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2296-design-a-text-editor) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -1145,6 +1147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2013-detect-squares](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2013-detect-squares) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -1285,6 +1288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-design-underground-system](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1472-design-browser-history) |
 | [2013-detect-squares](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2013-detect-squares) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2296-design-a-text-editor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2296-design-a-text-editor) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
@@ -1294,6 +1298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0692-top-k-frequent-words](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [1268-search-suggestions-system](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1268-search-suggestions-system) |
+| [2227-encrypt-and-decrypt-strings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2227-encrypt-and-decrypt-strings) |
 | [2707-extra-characters-in-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Meet in the Middle
