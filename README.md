@@ -1683,6 +1683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1795-rearrange-products-table) |
+| [1873-calculate-special-bonus](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1890-the-latest-login-in-2020) |
 | [1934-confirmation-rate](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1965-employees-with-missing-information) |
