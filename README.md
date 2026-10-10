@@ -1637,6 +1637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
