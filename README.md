@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2350-shortest-impossible-sequence-of-rolls) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2381-shifting-letters-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2381-shifting-letters-ii) |
 | [2392-build-a-matrix-with-conditions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2392-build-a-matrix-with-conditions) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2376-count-special-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2376-count-special-integers) |
 | [2719-count-of-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2719-count-of-integers) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2350-shortest-impossible-sequence-of-rolls](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2350-shortest-impossible-sequence-of-rolls) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
