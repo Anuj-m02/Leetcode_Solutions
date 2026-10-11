@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2751-robot-collisions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2811-check-if-it-is-possible-to-split-array) |
 | [2826-sorting-three-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2826-sorting-three-groups) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2830-maximize-the-profit-as-the-salesman) |
@@ -1264,6 +1265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3435-frequencies-of-shortest-supersequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3435-frequencies-of-shortest-supersequences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
