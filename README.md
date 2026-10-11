@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0376-wiggle-subsequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0376-wiggle-subsequence) |
 | [0456-132-pattern](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0463-island-perimeter) |
+| [0473-matchsticks-to-square](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0493-reverse-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0494-target-sum) |
@@ -627,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0473-matchsticks-to-square) |
 | [0832-flipping-an-image](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -695,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
+| [0473-matchsticks-to-square](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1774-closest-dessert-cost](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1774-closest-dessert-cost) |
@@ -794,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0376-wiggle-subsequence) |
 | [0466-count-the-repetitions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0466-count-the-repetitions) |
+| [0473-matchsticks-to-square](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0473-matchsticks-to-square) |
 | [0474-ones-and-zeroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0474-ones-and-zeroes) |
 | [0488-zuma-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0494-target-sum) |
@@ -1519,6 +1523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0473-matchsticks-to-square) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1494-parallel-courses-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
