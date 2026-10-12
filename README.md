@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1774-closest-dessert-cost](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1774-closest-dessert-cost) |
 | [1782-count-pairs-of-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1782-count-pairs-of-nodes) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1872-stone-game-viii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1755-closest-subsequence-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
+| [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2741-special-permutations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2741-special-permutations) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1774-closest-dessert-cost](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1774-closest-dessert-cost) |
+| [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [1872-stone-game-viii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1872-stone-game-viii) |
 | [1883-minimum-skips-to-arrive-at-meeting-on-time](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1883-minimum-skips-to-arrive-at-meeting-on-time) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
@@ -1272,6 +1275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0913-cat-and-mouse) |
 | [1137-n-th-tribonacci-number](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
+| [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3850-count-sequences-to-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3850-count-sequences-to-k) |
@@ -1536,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
 | [1755-closest-subsequence-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
+| [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2741-special-permutations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2741-special-permutations) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
