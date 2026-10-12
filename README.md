@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-paint-house-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1473-paint-house-iii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1499-max-value-of-equation](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1499-max-value-of-equation) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1537-get-the-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1537-get-the-maximum-score) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1425-constrained-subsequence-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1425-constrained-subsequence-sum) |
+| [1499-max-value-of-equation](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1499-max-value-of-equation) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
@@ -680,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1425-constrained-subsequence-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1499-max-value-of-equation](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1499-max-value-of-equation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -1036,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1425-constrained-subsequence-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1425-constrained-subsequence-sum) |
+| [1499-max-value-of-equation](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1499-max-value-of-equation) |
 | [1686-stone-game-vi](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1686-stone-game-vi) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
@@ -1471,6 +1475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1425-constrained-subsequence-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1425-constrained-subsequence-sum) |
+| [1499-max-value-of-equation](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1499-max-value-of-equation) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 ## Recursion
