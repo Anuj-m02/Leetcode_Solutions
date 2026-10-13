@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3710-maximum-partition-factor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3710-maximum-partition-factor) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3649-number-of-perfect-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3695-maximize-alternating-sum-using-swaps) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3814-maximum-capacity-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3814-maximum-capacity-within-budget) |
 ## Counting
