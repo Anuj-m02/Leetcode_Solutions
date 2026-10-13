@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2013-detect-squares](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2013-detect-squares) |
 | [2029-stone-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1901-find-a-peak-element-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
@@ -592,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1782-count-pairs-of-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1782-count-pairs-of-nodes) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
@@ -649,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2741-special-permutations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2741-special-permutations) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -887,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1977-number-of-ways-to-separate-numbers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [1987-number-of-unique-good-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1987-number-of-unique-good-subsequences) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
 | [2086-minimum-number-of-food-buckets-to-feed-the-hamsters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2086-minimum-number-of-food-buckets-to-feed-the-hamsters) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -1277,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0895-maximum-frequency-stack](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0975-odd-even-jump](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0975-odd-even-jump) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2336-smallest-number-in-infinite-set) |
 | [3244-shortest-distance-after-road-addition-queries-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3244-shortest-distance-after-road-addition-queries-ii) |
 ## Memoization
@@ -1360,6 +1366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0956-tallest-billboard](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0956-tallest-billboard) |
 | [1755-closest-subsequence-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -1425,6 +1432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -1559,6 +1567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2741-special-permutations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2741-special-permutations) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3276-select-cells-in-grid-with-maximum-score](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3276-select-cells-in-grid-with-maximum-score) |
