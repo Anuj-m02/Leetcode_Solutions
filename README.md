@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3649-number-of-perfect-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3649-number-of-perfect-pairs) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3733-minimum-time-to-complete-all-deliveries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3733-minimum-time-to-complete-all-deliveries) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3850-count-sequences-to-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3850-count-sequences-to-k) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
