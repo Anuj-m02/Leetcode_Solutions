@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2603-collect-coins-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2603-collect-coins-in-a-tree) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2681-power-of-heroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2681-power-of-heroes) |
 | [2707-extra-characters-in-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
 | [2741-special-permutations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2741-special-permutations) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2310-sum-of-numbers-with-units-digit-k) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2376-count-special-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2376-count-special-integers) |
+| [2681-power-of-heroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2681-power-of-heroes) |
 | [2719-count-of-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2719-count-of-integers) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
 | [2478-number-of-beautiful-partitions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2478-number-of-beautiful-partitions) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2681-power-of-heroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2681-power-of-heroes) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3152-special-array-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3152-special-array-ii) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2681-power-of-heroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2681-power-of-heroes) |
 | [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
 | [2751-robot-collisions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
@@ -929,6 +933,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2518-number-of-great-partitions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2518-number-of-great-partitions) |
 | [2560-house-robber-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2681-power-of-heroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2681-power-of-heroes) |
 | [2707-extra-characters-in-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2719-count-of-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2719-count-of-integers) |
 | [2741-special-permutations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2741-special-permutations) |
