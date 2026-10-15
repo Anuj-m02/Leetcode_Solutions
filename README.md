@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
@@ -1528,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0060-permutation-sequence) |
 | [0233-number-of-digit-one](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0894-all-possible-full-binary-trees](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0894-all-possible-full-binary-trees) |
