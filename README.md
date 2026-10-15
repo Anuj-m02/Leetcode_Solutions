@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0904-fruit-into-baskets](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0928-minimize-malware-spread-ii) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0904-fruit-into-baskets](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0978-longest-turbulent-subarray) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1208-get-equal-substrings-within-budget) |
@@ -1201,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0895-maximum-frequency-stack](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
+| [0904-fruit-into-baskets](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0928-minimize-malware-spread-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
