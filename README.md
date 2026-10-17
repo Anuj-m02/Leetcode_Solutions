@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3533-concatenated-divisibility](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3533-concatenated-divisibility) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3649-number-of-perfect-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3649-number-of-perfect-pairs) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3695-maximize-alternating-sum-using-swaps) |
@@ -1270,6 +1272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-properties-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3493-properties-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
