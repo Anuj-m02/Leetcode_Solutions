@@ -1,44 +1,69 @@
-from collections import defaultdict , deque
-import heapq
+# from collections import defaultdict , deque
+# import heapq
 
-# __import__("atexit").register(lambda: open("display_runtime.txt", 'w').write('0'))
+from collections import OrderedDict
+
 class LRUCache:
 
     def __init__(self, capacity: int):
         self.capacity = capacity
-        self.hash = {}
-        self.deq = deque()
+        self.cache = OrderedDict()
 
     def get(self, key: int) -> int:
-
-        if key in self.hash :
-            value = self.hash[key]
-            self.deq.remove(key)
-            self.deq.append(key)
-            return value
-        
-        else :
+        if key not in self.cache:
             return -1
+        # Move the accessed key to the end to mark it as most recently used
+        self.cache.move_to_end(key)
+        return self.cache[key]
 
     def put(self, key: int, value: int) -> None:
-
-        if key not in self.hash :
-            if len(self.deq) == self.capacity :
-                oldest = self.deq.popleft()
-                del self.hash[oldest]
+        if key in self.cache:
+            # Move key to end before updating its value
+            self.cache.move_to_end(key)
+        self.cache[key] = value
         
-        else :
-            self.deq.remove(key)
+        # If capacity is exceeded, evict the least recently used item (first item)
+        if len(self.cache) > self.capacity:
+            self.cache.popitem(last=False)
+
+# # __import__("atexit").register(lambda: open("display_runtime.txt", 'w').write('0'))
+# class LRUCache:
+
+#     def __init__(self, capacity: int):
+#         self.capacity = capacity
+#         self.hash = {}
+#         self.deq = deque()
+
+#     def get(self, key: int) -> int:
+
+#         if key in self.hash :
+#             value = self.hash[key]
+#             self.deq.remove(key)
+#             self.deq.append(key)
+#             return value
         
-        self.hash[key] = value
-        self.deq.append(key)
+#         else :
+#             return -1
+
+#     def put(self, key: int, value: int) -> None:
+
+#         if key not in self.hash :
+#             if len(self.deq) == self.capacity :
+#                 oldest = self.deq.popleft()
+#                 del self.hash[oldest]
+        
+#         else :
+#             self.deq.remove(key)
+        
+#         self.hash[key] = value
+#         self.deq.append(key)
         
 
 
-# Your LRUCache object will be instantiated and called as such:
-# obj = LRUCache(capacity)
-# param_1 = obj.get(key)
-# obj.put(key,value)
+# # Your LRUCache object will be instantiated and called as such:
+# # obj = LRUCache(capacity)
+# # param_1 = obj.get(key)
+# # obj.put(key,value)
 
 # class Node:
 #     def __init__(self, key, val):
