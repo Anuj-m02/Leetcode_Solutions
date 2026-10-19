@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [1954-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1954-minimum-garden-perimeter-to-collect-enough-apples) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2398-maximum-number-of-robots-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2398-maximum-number-of-robots-within-budget) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-minimum-interval-to-include-each-query](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2242-maximum-score-of-a-node-sequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2242-maximum-score-of-a-node-sequence) |
 | [2250-count-number-of-rectangles-containing-each-point](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2250-count-number-of-rectangles-containing-each-point) |
