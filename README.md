@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0085-maximal-rectangle) |
+| [0139-word-break](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0200-number-of-islands) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0165-compare-version-numbers) |
 | [0299-bulls-and-cows](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0299-bulls-and-cows) |
@@ -849,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0233-number-of-digit-one](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
@@ -1229,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0146-lru-cache) |
@@ -1357,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0488-zuma-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0488-zuma-game) |
 | [0546-remove-boxes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0546-remove-boxes) |
@@ -1426,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
 | [0692-top-k-frequent-words](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [1268-search-suggestions-system](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1268-search-suggestions-system) |
@@ -1951,4 +1957,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1114-print-in-order) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
