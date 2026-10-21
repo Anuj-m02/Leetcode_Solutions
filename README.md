@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3703-remove-k-balanced-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3703-remove-k-balanced-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3999-minimum-number-of-string-groups-through-transformations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3999-minimum-number-of-string-groups-through-transformations) |
 ## Stack
