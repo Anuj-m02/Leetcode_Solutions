@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3911-k-th-smallest-remaining-even-integer-in-subarray-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3911-k-th-smallest-remaining-even-integer-in-subarray-queries) |
 | [3928-minimum-cost-to-buy-apples-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3928-minimum-cost-to-buy-apples-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [3989-maximum-consistent-columns-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
