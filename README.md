@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1267-count-servers-that-communicate](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1268-search-suggestions-system](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1268-search-suggestions-system) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0299-bulls-and-cows) |
 | [0621-task-scheduler](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
+| [1267-count-servers-that-communicate](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1782-count-pairs-of-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1782-count-pairs-of-nodes) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2013-detect-squares](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2013-detect-squares) |
@@ -1038,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1192-critical-connections-in-a-network](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1192-critical-connections-in-a-network) |
 | [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
+| [1267-count-servers-that-communicate](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1905-count-sub-islands](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1905-count-sub-islands) |
@@ -1083,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
+| [1267-count-servers-that-communicate](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1345-jump-game-iv) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -1156,6 +1160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0835-image-overlap) |
 | [1139-largest-1-bordered-square](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1139-largest-1-bordered-square) |
+| [1267-count-servers-that-communicate](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -1220,6 +1225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-largest-component-size-by-common-factor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1202-smallest-string-with-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1202-smallest-string-with-swaps) |
+| [1267-count-servers-that-communicate](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1632-rank-transform-of-a-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1632-rank-transform-of-a-matrix) |
