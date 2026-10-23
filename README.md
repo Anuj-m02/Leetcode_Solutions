@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0809-expressive-words](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0809-expressive-words) |
 | [0832-flipping-an-image](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0835-image-overlap) |
+| [0839-similar-string-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0839-similar-string-groups) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0877-stone-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0879-profitable-schemes) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0809-expressive-words](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0809-expressive-words) |
+| [0839-similar-string-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0839-similar-string-groups) |
 | [0856-score-of-parentheses](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0880-decoded-string-at-index) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -1026,6 +1028,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
+| [0839-similar-string-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0839-similar-string-groups) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
@@ -1071,6 +1074,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0685-redundant-connection-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
+| [0839-similar-string-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0839-similar-string-groups) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -1210,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0803-bricks-falling-when-hit](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0803-bricks-falling-when-hit) |
+| [0839-similar-string-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0839-similar-string-groups) |
 | [0924-minimize-malware-spread](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0928-minimize-malware-spread-ii) |
 | [0952-largest-component-size-by-common-factor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0952-largest-component-size-by-common-factor) |
@@ -1252,6 +1257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
 | [0805-split-array-with-same-average](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0805-split-array-with-same-average) |
+| [0839-similar-string-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0839-similar-string-groups) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0895-maximum-frequency-stack](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0895-maximum-frequency-stack) |
