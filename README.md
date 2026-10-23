@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2801-count-stepping-numbers-in-range](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2801-count-stepping-numbers-in-range) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -986,6 +987,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [2876-count-visited-nodes-in-a-directed-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2876-count-visited-nodes-in-a-directed-graph) |
 | [2901-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2901-longest-unequal-adjacent-groups-subsequence-ii) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -1538,6 +1540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3356-zero-array-transformation-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3356-zero-array-transformation-ii) |
 | [3503-longest-palindrome-after-substring-concatenation-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3503-longest-palindrome-after-substring-concatenation-i) |
