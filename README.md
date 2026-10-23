@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3814-maximum-capacity-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3814-maximum-capacity-within-budget) |
 | [3850-count-sequences-to-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3850-count-sequences-to-k) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3886-sum-of-sortable-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -1233,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3710-maximum-partition-factor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3710-maximum-partition-factor) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3887-incremental-even-weighted-cycle-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3887-incremental-even-weighted-cycle-queries) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
 ## Hash Table
@@ -1305,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3999-minimum-number-of-string-groups-through-transformations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3999-minimum-number-of-string-groups-through-transformations) |
 ## Tree
 |  |
