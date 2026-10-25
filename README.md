@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2751-robot-collisions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2811-check-if-it-is-possible-to-split-array) |
@@ -983,6 +984,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2741-special-permutations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2741-special-permutations) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2771-longest-non-decreasing-subarray-from-two-arrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2771-longest-non-decreasing-subarray-from-two-arrays) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2801-count-stepping-numbers-in-range](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2801-count-stepping-numbers-in-range) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2811-check-if-it-is-possible-to-split-array) |
