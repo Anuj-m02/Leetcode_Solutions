@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1686-stone-game-vi](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1686-stone-game-vi) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1735-count-ways-to-make-array-with-product) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1755-closest-subsequence-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1096-brace-expansion-ii) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1774-closest-dessert-cost](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1774-closest-dessert-cost) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -956,6 +959,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1668-maximum-repeating-substring](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1668-maximum-repeating-substring) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1735-count-ways-to-make-array-with-product) |
 | [1745-palindrome-partitioning-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1745-palindrome-partitioning-iv) |
@@ -1707,6 +1711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1494-parallel-courses-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1494-parallel-courses-ii) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1617-count-subtrees-with-max-distance-between-cities](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1617-count-subtrees-with-max-distance-between-cities) |
+| [1723-find-minimum-time-to-finish-all-jobs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1723-find-minimum-time-to-finish-all-jobs) |
 | [1755-closest-subsequence-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
