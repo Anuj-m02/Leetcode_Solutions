@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3911-k-th-smallest-remaining-even-integer-in-subarray-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3911-k-th-smallest-remaining-even-integer-in-subarray-queries) |
 | [3928-minimum-cost-to-buy-apples-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3928-minimum-cost-to-buy-apples-ii) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
+| [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -1039,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-number-of-balanced-integers-in-a-range](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3791-number-of-balanced-integers-in-a-range) |
 | [3850-count-sequences-to-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3850-count-sequences-to-k) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
+| [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [3989-maximum-consistent-columns-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3989-maximum-consistent-columns-in-a-grid) |
@@ -1088,6 +1090,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3710-maximum-partition-factor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3710-maximum-partition-factor) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
+| [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1381,6 +1384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3812-minimum-edge-toggles-on-a-tree) |
+| [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 ## Topological Sort
 |  |
 | ------- |
