@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2603-collect-coins-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2603-collect-coins-in-a-tree) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2681-power-of-heroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2681-power-of-heroes) |
 | [2707-extra-characters-in-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2296-design-a-text-editor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2296-design-a-text-editor) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
 | [2751-robot-collisions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [3523-make-array-non-decreasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3523-make-array-non-decreasing) |
@@ -998,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2518-number-of-great-partitions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2518-number-of-great-partitions) |
 | [2560-house-robber-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2560-house-robber-iv) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2681-power-of-heroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2681-power-of-heroes) |
 | [2707-extra-characters-in-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2707-extra-characters-in-a-string) |
 | [2719-count-of-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2719-count-of-integers) |
@@ -1139,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3243-shortest-distance-after-road-addition-queries-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3243-shortest-distance-after-road-addition-queries-i) |
@@ -1173,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-star-sum-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2497-maximum-star-sum-of-a-graph) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2944-minimum-number-of-coins-for-fruits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2944-minimum-number-of-coins-for-fruits) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3080-mark-elements-on-array-by-performing-queries) |
@@ -1219,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-build-a-matrix-with-conditions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2392-build-a-matrix-with-conditions) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3122-minimum-number-of-operations-to-satisfy-conditions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3122-minimum-number-of-operations-to-satisfy-conditions) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3148-maximum-difference-score-in-a-grid) |
@@ -1284,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2493-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2493-divide-nodes-into-the-maximum-number-of-groups) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
@@ -1633,6 +1640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
+| [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
 | [3523-make-array-non-decreasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3523-make-array-non-decreasing) |
 | [4054-count-shadow-pairs-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4054-count-shadow-pairs-i) |
