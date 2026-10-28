@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0788-rotated-digits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0788-rotated-digits) |
 | [0805-split-array-with-same-average](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0805-split-array-with-same-average) |
 | [0836-rectangle-overlap](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0877-stone-game) |
@@ -905,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0740-delete-and-earn](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0740-delete-and-earn) |
+| [0788-rotated-digits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0805-split-array-with-same-average](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0805-split-array-with-same-average) |
 | [0813-largest-sum-of-averages](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0813-largest-sum-of-averages) |
