@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3895-count-digit-appearances](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 | [3904-smallest-stable-index-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
 ## Queue
 |  |
@@ -1044,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3791-number-of-balanced-integers-in-a-range](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3791-number-of-balanced-integers-in-a-range) |
 | [3850-count-sequences-to-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3850-count-sequences-to-k) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -1223,6 +1226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3989-maximum-consistent-columns-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3989-maximum-consistent-columns-in-a-grid) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
 | [4046-minimum-cost-path-with-at-most-k-turns](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4046-minimum-cost-path-with-at-most-k-turns) |
