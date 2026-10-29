@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3814-maximum-capacity-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3814-maximum-capacity-within-budget) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3850-count-sequences-to-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3850-count-sequences-to-k) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3703-remove-k-balanced-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3703-remove-k-balanced-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
@@ -1103,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3710-maximum-partition-factor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3710-maximum-partition-factor) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3812-minimum-edge-toggles-on-a-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 ## Breadth-First Search
@@ -1404,6 +1408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3241-time-taken-to-mark-all-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3241-time-taken-to-mark-all-nodes) |
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3812-minimum-edge-toggles-on-a-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 ## Topological Sort
 |  |
@@ -1800,6 +1805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -1963,6 +1969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Timsort
 |  |
 | ------- |
@@ -1975,6 +1982,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Newton's Method
 |  |
 | ------- |
