@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0880-decoded-string-at-index) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1021-remove-outermost-parentheses](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0813-largest-sum-of-averages](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0813-largest-sum-of-averages) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1109-corporate-flight-bookings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1109-corporate-flight-bookings) |
@@ -922,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0879-profitable-schemes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0879-profitable-schemes) |
 | [0894-all-possible-full-binary-trees](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0894-all-possible-full-binary-trees) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0913-cat-and-mouse](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0913-cat-and-mouse) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0920-number-of-music-playlists](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0920-number-of-music-playlists) |
