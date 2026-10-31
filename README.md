@@ -836,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1728-cat-and-mouse-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1728-cat-and-mouse-ii) |
 | [1782-count-pairs-of-nodes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1782-count-pairs-of-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2050-parallel-courses-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2050-parallel-courses-iii) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2065-maximum-path-quality-of-a-graph) |
@@ -1098,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1905-count-sub-islands](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1905-count-sub-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2127-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2127-maximum-employees-to-be-invited-to-a-meeting) |
@@ -1149,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1345-jump-game-iv) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1905-count-sub-islands](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1905-count-sub-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2039-the-time-when-the-network-becomes-idle](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2039-the-time-when-the-network-becomes-idle) |
 | [2360-longest-cycle-in-a-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2360-longest-cycle-in-a-graph) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -1300,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1905-count-sub-islands](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1905-count-sub-islands) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2003-smallest-missing-genetic-value-in-each-subtree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2003-smallest-missing-genetic-value-in-each-subtree) |
 | [2076-process-restricted-friend-requests](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2076-process-restricted-friend-requests) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
