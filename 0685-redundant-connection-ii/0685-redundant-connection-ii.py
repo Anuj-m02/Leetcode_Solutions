@@ -85,3 +85,38 @@ class Solution:
         #         ans = i
         
         # return edges[ans]
+# class Solution:
+#     def findRedundantDirectedConnection(self, edges: list[list[int]]) -> list[int]:
+        
+#         n = len(edges)
+
+        
+#         parent = list(range(n))
+#         size = [1]*(n)
+
+#         def find(node) :
+#             if parent[node] != node :
+#                 parent[node] = find(parent[node])
+#             return parent[node]
+        
+#         def union(a , b) :
+#             root_a , root_b = find(a) , find(b)
+#             if root_a == root_b :
+#                 return False
+            
+#             parent[root_a] = root_b
+#             size[root_b] += size[root_a]
+#             return True
+
+        
+#         for indx , (u,v) in enumerate(edges) :
+#             u -= 1
+#             v -= 1
+#             if union(u,v) :
+#                 continue
+            
+#             if not union(u,v) :
+#                 return edges[indx]
+        
+
+
