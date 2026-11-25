@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3910-count-connected-subgraphs-with-even-node-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3910-count-connected-subgraphs-with-even-node-sum) |
 | [3911-k-th-smallest-remaining-even-integer-in-subarray-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3911-k-th-smallest-remaining-even-integer-in-subarray-queries) |
 | [3928-minimum-cost-to-buy-apples-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3928-minimum-cost-to-buy-apples-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3814-maximum-capacity-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3814-maximum-capacity-within-budget) |
 | [3911-k-th-smallest-remaining-even-integer-in-subarray-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3911-k-th-smallest-remaining-even-integer-in-subarray-queries) |
 | [3924-minimum-threshold-path-with-limited-heavy-edges](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3924-minimum-threshold-path-with-limited-heavy-edges) |
+| [3934-smallest-unique-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 | [4053-minimum-operations-to-make-every-element-palindromic](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4053-minimum-operations-to-make-every-element-palindromic) |
 ## Greedy
 |  |
@@ -1395,6 +1397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3728-stable-subarrays-with-equal-boundary-and-interior-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3728-stable-subarrays-with-equal-boundary-and-interior-sum) |
 | [3795-minimum-subarray-length-with-distinct-sum-at-least-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3795-minimum-subarray-length-with-distinct-sum-at-least-k) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3873-maximum-points-activated-with-one-addition) |
+| [3934-smallest-unique-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3999-minimum-number-of-string-groups-through-transformations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3999-minimum-number-of-string-groups-through-transformations) |
 ## Tree
 |  |
@@ -2032,10 +2035,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2430-maximum-deletions-on-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2430-maximum-deletions-on-a-string) |
+| [3934-smallest-unique-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [2430-maximum-deletions-on-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2430-maximum-deletions-on-a-string) |
+| [3934-smallest-unique-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -2072,4 +2077,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0139-word-break) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
