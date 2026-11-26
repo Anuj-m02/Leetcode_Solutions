@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3154-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3235-check-if-the-rectangle-corner-is-reachable](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3235-check-if-the-rectangle-corner-is-reachable) |
 | [3343-count-number-of-balanced-permutations](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3343-count-number-of-balanced-permutations) |
+| [3360-stone-removal-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3360-stone-removal-game) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
 | [3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3428-maximum-and-minimum-sums-of-at-most-size-k-subsequences) |
@@ -1742,6 +1743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3080-mark-elements-on-array-by-performing-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3080-mark-elements-on-array-by-performing-queries) |
+| [3360-stone-removal-game](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3703-remove-k-balanced-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3703-remove-k-balanced-substrings) |
 ## Bitmask
