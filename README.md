@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3660-jump-game-ix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3676-count-bowl-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3676-count-bowl-subarrays) |
 | [3686-number-of-stable-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3686-number-of-stable-subsequences) |
 | [3695-maximize-alternating-sum-using-swaps](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3695-maximize-alternating-sum-using-swaps) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
 | [2751-robot-collisions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2751-robot-collisions) |
 | [3523-make-array-non-decreasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3523-make-array-non-decreasing) |
+| [3676-count-bowl-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3676-count-bowl-subarrays) |
 | [3703-remove-k-balanced-substrings](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3703-remove-k-balanced-substrings) |
 | [4054-count-shadow-pairs-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4054-count-shadow-pairs-i) |
 ## Prefix Sum
@@ -1692,6 +1694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
 | [3523-make-array-non-decreasing](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3523-make-array-non-decreasing) |
+| [3676-count-bowl-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3676-count-bowl-subarrays) |
 | [4054-count-shadow-pairs-i](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4054-count-shadow-pairs-i) |
 ## Monotonic Queue
 |  |
