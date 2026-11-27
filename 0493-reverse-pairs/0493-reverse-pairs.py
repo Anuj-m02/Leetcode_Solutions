@@ -38,32 +38,32 @@
 
 from sortedcontainers import SortedList
 
-# class Solution:
-#     def reversePairs(self, nums: List[int]) -> int:
-#         l = SortedList()  # Stores elements seen so far (to the left of current)
-#         count = 0
+class Solution:
+    def reversePairs(self, nums: List[int]) -> int:
+        l = SortedList()  # Stores elements seen so far (to the left of current)
+        count = 0
 
-#         for a in nums:
-#             i = l.bisect_right(2 * a)
-#             count += i
-#             l.add(a)
+        for a in nums:
+            i = l.bisect_right(2 * a)
+            count += i
+            l.add(a)
 
-#         return len(nums) * (len(nums) - 1) // 2 - count
+        return len(nums) * (len(nums) - 1) // 2 - count
 
-# from sortedcontainers import SortedList
+from sortedcontainers import SortedList
 
-# class Solution:
-#     def reversePairs(self, nums: List[int]) -> int:
-#         l = SortedList()
-#         count = 0
+class Solution:
+    def reversePairs(self, nums: List[int]) -> int:
+        l = SortedList()
+        count = 0
 
-#         for a in reversed(nums):
-#             # We want nums[i] > 2 * nums[j] => nums[i] > 2*a
-#             # So find count of nums[i] in l such that nums[i] < a/2
-#             count += l.bisect_left(a / 2)
-#             l.add(a)
+        for a in reversed(nums):
+            # We want nums[i] > 2 * nums[j] => nums[i] > 2*a
+            # So find count of nums[i] in l such that nums[i] < a/2
+            count += l.bisect_left(a / 2)
+            l.add(a)
 
-#         return count
+        return count
 
 class Solution:
     def reversePairs(self, nums):
