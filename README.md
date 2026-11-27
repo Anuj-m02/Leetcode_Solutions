@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2603-collect-coins-in-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2603-collect-coins-in-a-tree) |
+| [2607-make-k-subarray-sums-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2617-minimum-number-of-visited-cells-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2617-minimum-number-of-visited-cells-in-a-grid) |
 | [2681-power-of-heroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2681-power-of-heroes) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2376-count-special-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2376-count-special-integers) |
 | [2409-count-days-spent-together](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
+| [2607-make-k-subarray-sums-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2681-power-of-heroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2681-power-of-heroes) |
 | [2719-count-of-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2719-count-of-integers) |
 | [2750-ways-to-split-array-into-good-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2750-ways-to-split-array-into-good-subarrays) |
@@ -623,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2560-house-robber-iv](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2560-house-robber-iv) |
+| [2607-make-k-subarray-sums-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2790-maximum-number-of-groups-with-increasing-length](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2790-maximum-number-of-groups-with-increasing-length) |
 | [2811-check-if-it-is-possible-to-split-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2811-check-if-it-is-possible-to-split-array) |
@@ -682,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2500-delete-greatest-value-in-each-row](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2607-make-k-subarray-sums-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2681-power-of-heroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2681-power-of-heroes) |
 | [2736-maximum-sum-queries](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2736-maximum-sum-queries) |
@@ -1512,6 +1516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0952-largest-component-size-by-common-factor) |
 | [1735-count-ways-to-make-array-with-product](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/1735-count-ways-to-make-array-with-product) |
+| [2607-make-k-subarray-sums-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/2607-make-k-subarray-sums-equal) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 | [3378-count-connected-components-in-lcm-graph](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3378-count-connected-components-in-lcm-graph) |
