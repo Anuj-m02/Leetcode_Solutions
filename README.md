@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0376-wiggle-subsequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0376-wiggle-subsequence) |
 | [0456-132-pattern](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0456-132-pattern) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0349-intersection-of-two-arrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0456-132-pattern) |
@@ -648,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0148-sort-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0692-top-k-frequent-words) |
@@ -1343,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0146-lru-cache) |
 | [0299-bulls-and-cows](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0299-bulls-and-cows) |
+| [0349-intersection-of-two-arrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0432-all-oone-data-structure](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0460-lfu-cache) |
@@ -1613,6 +1617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0466-count-the-repetitions](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0466-count-the-repetitions) |
 | [0809-expressive-words](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0809-expressive-words) |
 | [0832-flipping-an-image](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0832-flipping-an-image) |
