@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0139-word-break) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0904-fruit-into-baskets](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -1361,6 +1363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/0140-word-break-ii) |
