@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [3939-count-non-adjacent-subsets-in-a-rooted-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3939-count-non-adjacent-subsets-in-a-rooted-tree) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [3989-maximum-consistent-columns-in-a-grid](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3989-maximum-consistent-columns-in-a-grid) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3952-maximum-total-value-of-covered-indices](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3952-maximum-total-value-of-covered-indices) |
 ## Sorting
 |  |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3812-minimum-edge-toggles-on-a-tree](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3812-minimum-edge-toggles-on-a-tree) |
 | [3814-maximum-capacity-within-budget](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3814-maximum-capacity-within-budget) |
 | [3886-sum-of-sortable-integers](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Counting
 |  |
 | ------- |
@@ -1237,6 +1240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3928-minimum-cost-to-buy-apples-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3928-minimum-cost-to-buy-apples-ii) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 | [4003-minimum-cost-path-with-alternating-directions-iii](https://github.com/Anuj-m02/Leetcode_Solutions/tree/master/4003-minimum-cost-path-with-alternating-directions-iii) |
